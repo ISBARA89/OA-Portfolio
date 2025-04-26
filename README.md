@@ -48,3 +48,6 @@ Open the index.html file in your browser.
 - Integrate a simple blog or update section
 
 - Add a contact form with Formspree or another service
+---
+
+> Proudly crafted by Oluwaseun Moses Adeniyi (OMA) ✨
