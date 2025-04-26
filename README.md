@@ -1,43 +1,50 @@
-# Oluwaseun Adeniyi | Portfolio Website
+# OMA Portfolio
+A clean, modern personal portfolio site to showcase my tech skills, creative projects, and professional experience.
 
-Welcome to my personal portfolio website! This site highlights some key projects, experiences, and skills I bring as a creative professional with an expanding focus in tech, design, and data.
+🔗 Live Demo: https://isbara89.github.io/OMA-Portfolio/
 
-## 🔗 Live Preview
+## ✨Features
+- Responsive, mobile-friendly design
 
-[View Portfolio Live on GitHub Pages] https://isbara89.github.io/olu-portfolio/
+- Clean layout with Bootstrap 5
 
-## 📁 Project Structure
-Oluwaseun_Portfolio/ ├── assets/ # Images and media ├── css/ # Custom stylesheets ├── js/ # JavaScript functionality ├── index.html # Main landing page └── README.md # You're reading this!
-## 💡 Key Features
+- Sections for About, Experience, Education, Skills, Interests, and Projects
 
-- Responsive design using Bootstrap 5
-- Smooth scrolling navigation
-- Custom resume layout with sections:
-  - About
-  - Experience
-  - Education
-  - Skills
-  - Projects
-  - Interests
-- Modern, clean aesthetic with editable code
-## 🚀 Deployment
+- Easily customizable structure
 
-This portfolio is hosted on GitHub Pages. See below for how to deploy your version.
+- Hosted on GitHub Pages
 
-## 🛠️ How to Use
+## 🚀 Built With
+- HTML5
 
-1. Fork or clone the repo.
-2. Replace content in `index.html` with your own info and projects.
-3. Customize colors, fonts, or layout in `css/styles.css` as desired.
-4. Push changes to your GitHub repo.
+- CSS3
 
-## 🧪 Technologies Used
-
-- HTML5 / CSS3
-- JavaScript
 - Bootstrap 5
-- Font Awesome
 
-## 🙌 Acknowledgements
+- JavaScript (basic interaction)
 
-This portfolio design was adapted from [Start Bootstrap - Resume Template](https://startbootstrap.com/theme/resume).
+- GitHub Pages
+
+## 📂 How to Use
+If you want to run the portfolio locally:
+
+1. #### Clone the repository:
+
+```bash
+git clone https://github.com/isbara89/OMA-Portfolio.git
+```
+Open the index.html file in your browser.
+
+## 🛠️ Customization
+- Edit `index.html` and `/css/styles.css` to personalize the content and styles.
+
+- Update project links and social icons in the footer.
+
+- You can also swap Bootstrap theme colors if you want a different vibe.
+
+## 🎯 Future Improvements
+- Add animations with AOS.js or Framer Motion
+
+- Integrate a simple blog or update section
+
+- Add a contact form with Formspree or another service
